@@ -33,12 +33,18 @@ d. Geographic
 Steps Involved --
 
 1 - Understand the data 
+
 2 - Understand the business problem 
+
 3 - Convert denormalized into normalized structure 
+
 4 - Perform ETL Work -- 
 extract data, data cleaning. 
+
 5 - Create a Database in Microsoft SQL server 
+
 6 - Create a proper entity relationship diagram (ERD) and create table 
+
 7 - Insert the clean data into SQL database 
 8 - Perform Exploratory data analysis on SQL 
 9 - Load data in power bi 
