@@ -20,6 +20,7 @@ Tools Used:
 * Power BI: Visualizations and reporting.
 
 Project Goals --
+
 Create an entire ETL process in a database and a Power BI dash mode to utilize the customer data and achieved below goals:
 1 - Analyze Customer data based on these levels -
 a. Payment and Accounts info
@@ -30,6 +31,7 @@ d. Geographic
 3 - Identify company's revenue status
 
 Steps Involved --
+
 1 - Understand the data
 2 - Understand the business problem
 3 - Convert denormalized into normalized structure
